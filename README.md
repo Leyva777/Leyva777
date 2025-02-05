@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on practice projects
 - 📫 How to reach me ...the key is your heart
 - 😄 Pronouns: don't use 'em
-- ⚡ Fun fact: I'm looking for a job :)
+- ⚡ Fun fact: wut
 
 <!---
 Leyva777/Leyva777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
