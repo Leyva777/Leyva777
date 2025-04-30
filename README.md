@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on practice projects
 - 📫 How to reach me ...the key is your heart
-- 😄 Pronouns: don't use 'em
 - ⚡ Fun fact: wut
 
 <!---
